@@ -1,0 +1,22 @@
+lit st = time.Now
+println(st)
+
+lit abc = []
+
+for i in 1..9999 {
+	println(i)
+}
+
+println("DONE")
+
+lit et = time.Now
+println(et)
+
+println(et," >>> ",st)
+
+//
+//	TIME: 1.1832121999999998
+//  
+//  ORIGINSCRIPT: 117.56116104955647-% TO PYTHON
+//
+
