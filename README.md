@@ -1,7 +1,7 @@
 ﻿# NueScript Programming Language
 ## Summary
 
-🛠️🌟 **NueScript** is a superset if AeroScript.
+🛠️🌟 **NueScript** is a superset of AeroScript.
 
 ✨ **Features**:
 - All features present in AeroScript.
