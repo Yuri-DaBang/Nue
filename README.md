@@ -2,6 +2,7 @@
 ## Summary
 
 🛠️🌟 **NueScript** is a superset of AeroScript.
+- NOTE: `Nue` will be mentained on `Fri3nds Group Org `at [Fri3nds Group](https://github.com/Fri3ndsGroup) 
 
 ✨ **Features**:
 - All features present in AeroScript.
